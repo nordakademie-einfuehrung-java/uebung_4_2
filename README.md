@@ -5,10 +5,9 @@
 * Schreiben Sie eine Methode isPrimzahl, die einen Parameter vom Typ ```int``` erwartet (```testzahl```) und als Ergebnis einen ```boolean``` zurückliefert.
 * Diese Methode soll ```true``` liefern, wenn die übergebene Zahl eine Primzahl ist, sonst ```false```.
 
-| Tipps  |
-| ------------- |
-| Sie müssen für jede Zahl ```n``` zwischen ```2``` und ```testZahl-1``` dahingehend prüfen, ob ```testZahl``` durch ```n``` teilbar ist.  |
-| Für die Prüfung "ist teilbar" eignet sich der Restberechnungs-Operator ```%```.  |
+> ### Tipps
+* Sie müssen für jede Zahl ```n``` zwischen ```2``` und ```testZahl-1``` dahingehend prüfen, ob ```testZahl``` durch ```n``` teilbar ist.
+* Für die Prüfung "ist teilbar" eignet sich der Restberechnungs-Operator ```%```.
 
 ## Primzahlen ermitteln und zählen
 
